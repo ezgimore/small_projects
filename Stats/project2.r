@@ -1,3 +1,4 @@
+#Worked with Ben Monical
 #import csv
 roadrace <- read.csv(file = "roadrace.csv")
 #count the number of maine and away runners

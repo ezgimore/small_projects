@@ -1,3 +1,4 @@
+#Worked with Ben Monical
 #Q1
 #PART I & II
 #max of Xa and Xb because satellite only fails when the 2nd one does

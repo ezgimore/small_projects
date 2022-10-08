@@ -1,3 +1,4 @@
+#Worked with Ben Monical
 #Question 1
 #import csv
 gpa <- read.csv(file = "gpa.csv")

@@ -1,3 +1,4 @@
+#Worked with Ben Monical
 #QUESTION 1
 
 nlist <- c(1, 2, 3, 5, 10, 30)

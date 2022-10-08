@@ -1,3 +1,4 @@
+#Worked with Ben Monical
 #Question 1
 #import csv
 data <- read.csv(file = "bodytemp-heartrate.csv")
